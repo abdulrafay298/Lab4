@@ -1,8 +1,8 @@
-#Project Overview
+# Project Overview
 
-**Learning how to clone, push and pull from VS code.
-**Making a responsive Web Page using CSS.
-**writing CSS to make a responsive webpage layout, with the Flex technique.
+* Learning how to clone, push and pull from VS code.
+* Making a responsive Web Page using CSS.
+* writing CSS to make a responsive webpage layout, with the Flex technique.
 
 ## Team Members
 |         Name           |
